@@ -41,7 +41,7 @@ def expand_turbine_data(df):
     return expanded_df
 
 # Streamlit UI
-st.title("Turbine Downtime Expander Dashboard")
+st.title("Turbine Downtime Expander")
 
 uploaded_file = st.file_uploader("Upload your Excel file", type=["xlsx"])
 
