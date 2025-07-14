@@ -1,0 +1,6 @@
+cd "C:\rohith amrita\python"
+git init
+git remote add origin https://github.com/your-username/your-repo-name.git
+git add .
+git commit -m "First commit - Streamlit app"
+git push -u origin master
